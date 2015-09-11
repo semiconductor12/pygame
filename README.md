@@ -1,1 +1,3 @@
 # pygame
+
+Some pygame examples.
