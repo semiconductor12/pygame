@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import pygame
 
 from math import hypot
